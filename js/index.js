@@ -34,7 +34,7 @@ makePizza = () => {
     let pizzaName = document.getElementById("pizzaName").value
     let size = document.getElementById("size").value
 
-    //Get Radio Options
+    
     let baseOptions = document.getElementsByName("baseRadio");
     let baseValue ;
 
